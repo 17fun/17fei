@@ -16,3 +16,7 @@ deno task start
 
 ### 技术架构
 虽然是纯前端项目， 但是使用了fresh + deno的技术栈。 相对小众但是和next.js有相似的地方，半小时左右可上手。
+
+### 其他分享
+
+https://17fei.fun/share0
