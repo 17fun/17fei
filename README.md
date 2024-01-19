@@ -20,3 +20,11 @@ deno task start
 ### 其他分享
 
 https://17fei.fun/share0
+
+### 个人微信
+
+wbot10
+
+### 赞助支持
+
+<img src="static/qrcode.JPG" width="360px" alt="情侣小游戏赞助"/>
