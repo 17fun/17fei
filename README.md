@@ -21,10 +21,12 @@ deno task start
 
 https://17fei.fun/share0
 
-### 个人微信
+### 微信
 
 wbot10
 
-### 赞助支持
+###
 
-<img src="static/qrcode.JPG" width="360px" alt="情侣小游戏赞助"/>
+最近转行和朋友一起卖情趣用品，喜欢的可以支持一下。
+
+https://17fei.fun/store
